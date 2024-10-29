@@ -1,5 +1,5 @@
 # Decision-Tree
-Third assignment of the course Artificial Intelligence (2nd year, 2nd semester)
+Third assignment of the course Artificial Intelligence (BSc in Artificial Intelligence and Data Science 2nd year, 2nd semester)
 
 ## A little context
 ### Overview
